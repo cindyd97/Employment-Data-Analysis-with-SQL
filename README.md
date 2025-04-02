@@ -1,5 +1,5 @@
 # Analyzing Employment Data with SQL
-
+[Back to Portfolio](https://github.com/cindyd97/Data-Analysis-Portfolio-Cindy)
 ### Description:
 - Step 1 Data Modeling: An Entity Relationship Diagram is created using QuickDBD to display the relationship of the data tables based on primary and foreign keys found in each table. The diagram links 6 tables based on department ID, employee ID, or title ID.
 - Step 2 Data Engineering: Table schemas are created for each of the 6 CSV files where datatypes, primary keys, foreign keys, and other constraints are specified. Then, each CSV file is imported into the corresponding SQL table

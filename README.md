@@ -5,6 +5,9 @@
 - Step 2 Data Engineering: Table schemas are created for each of the 6 CSV files where datatypes, primary keys, foreign keys, and other constraints are specified. Then, each CSV file is imported into the corresponding SQL table
 - Step 3 Data Analysis: This part of the assignment involves joining tables to view employee data based on demographic and salary information. Other steps include filtering employee data based on hire date, listing employees based on department or other internal information to the company, finding employees based on the beginning initial of their name, and finding employees based on a specified department. The code also involves performing frequency counts in descending order for all employees.
 
+This ReadME's description is [copyrighted](https://github.com/cindyd97/Work/blob/main/LICENSE). 
+Unauthorized use or reproduction is prohibited.
+
 ### Language:
 SQL (PostgreSQL in pgAdmin)
 
